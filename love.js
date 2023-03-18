@@ -1,6 +1,6 @@
 var c = 0;
 
-var when = ["looked at me", "touch my hair and brush it", "always be my first reader", "wrote a song based on my melody", "tolerate my bad temper", "give me emotional support", "tell me I am great", "cooked a burnt egg for me";];
+var when = ["looked at me", "touch my hair and brush it", "always be my first reader", "wrote a song based on my melody", "tolerate my bad temper", "give me emotional support", "tell me I am great", "cooked a burnt egg for me"];
 
 function shuffle(array) {
     array.sort(()=>Math.random() - 0.5);
