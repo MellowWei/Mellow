@@ -58,14 +58,13 @@ main {
   text-align: right;
 }
 
-
-#g#g #i-love-it p:first-of-type,
-#g #when-you p:first-of-type {
-  color: white;
+#g #i-love-it p,
+#g #when-you p {
   width: 100%;
   margin-bottom: .5em;
   line-height: 90%;
   pointer-events: none;
+
   transition: background 4s linear;
   -webkit-transition: background 4s linear;
   -moz-transition: background 4s linear;
